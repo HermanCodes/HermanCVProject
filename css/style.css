@@ -1,0 +1,44 @@
+h1,
+h3 {
+    color: #F3ECB0;
+}
+
+img {
+    flex-direction: left;
+    border-radius: 30%;
+    box-shadow: 0 4px 12px 4px rgba(0, 0, 0, 0.3);
+}
+
+a {
+    color: #ADE792;
+}
+
+body {
+    background-color: #344D67;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ADE792;
+}
+
+hr {
+    width: 60px;
+    border-style: dotted none none;
+    border-width: 7px;
+    border-color: slategrey;
+}
+
+.contentText {
+    text-align: center;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: top;
+    table-layout: fixed;
+    width: 400px;
+}
+
+table.skills {
+    table-layout: auto;
+    width: 250px;
+}
